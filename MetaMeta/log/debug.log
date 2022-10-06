@@ -1,0 +1,125 @@
+2021-11-26 21:34:04,256 - program starts
+2021-11-26 21:34:04,256 - debug info only
+2021-11-26 21:34:04,256 - running is set to True, running action loop...
+2021-11-26 21:34:04,256 - running menu's action function
+2021-11-26 21:34:10,260 - user interface choices : {'app_choice': 'quit', 'quit_confirm': True}
+2021-11-26 21:34:10,265 - program ends
+2021-11-26 21:35:05,223 - program starts
+2021-11-26 21:35:05,223 - debug info only
+2021-11-26 21:35:05,223 - running is set to True, running action loop...
+2021-11-26 21:35:05,223 - running menu's action function
+2021-11-26 21:35:18,817 - user interface choices : {'app_choice': 'search', 'search_type': 'le protocole des anges'}
+2021-11-26 21:35:30,036 - running is set to True, running action loop...
+2021-11-26 21:35:30,037 - running menu's action function
+2021-11-26 21:35:36,353 - user interface choices : {'app_choice': 'quit', 'quit_confirm': True}
+2021-11-26 21:35:36,356 - program ends
+2021-11-26 21:36:39,754 - program starts
+2021-11-26 21:36:39,754 - debug info only
+2021-11-26 21:36:39,754 - running is set to True, running action loop...
+2021-11-26 21:36:39,754 - running menu's action function
+2021-11-26 21:36:41,351 - user interface choices : {'app_choice': 'search', 'search_type': ''}
+2021-11-26 21:36:42,896 - program starts
+2021-11-26 21:36:42,896 - debug info only
+2021-11-26 21:36:42,896 - running is set to True, running action loop...
+2021-11-26 21:36:42,896 - running menu's action function
+2021-11-26 21:36:46,977 - user interface choices : {'app_choice': 'search', 'search_type': 'abruti'}
+2021-11-26 21:37:06,012 - program starts
+2021-11-26 21:37:06,012 - debug info only
+2021-11-26 21:37:06,012 - running is set to True, running action loop...
+2021-11-26 21:37:06,012 - running menu's action function
+2021-11-26 21:37:10,493 - user interface choices : {'app_choice': 'search', 'search_type': 'abruti'}
+2021-11-26 21:37:14,899 - running is set to True, running action loop...
+2021-11-26 21:37:14,899 - running menu's action function
+2021-11-26 21:37:19,754 - user interface choices : {'app_choice': 'statistics', 'get_some_statistics': 'top queries', 'top_queries_number': '12'}
+2021-11-26 21:38:35,183 - running is set to True, running action loop...
+2021-11-26 21:38:35,184 - running menu's action function
+2021-11-26 21:38:46,946 - user interface choices : {'app_choice': 'search', 'search_type': 'abscisse'}
+2021-11-26 21:39:20,133 - program starts
+2021-11-26 21:39:20,133 - debug info only
+2021-11-26 21:39:20,133 - running is set to True, running action loop...
+2021-11-26 21:39:20,133 - running menu's action function
+2021-11-26 21:39:28,130 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
+2021-11-26 22:02:00,583 - program starts
+2021-11-26 22:02:00,583 - debug info only
+2021-11-26 22:02:00,583 - running is set to True, running action loop...
+2021-11-26 22:02:00,583 - running menu's action function
+2021-11-26 22:02:05,951 - user interface choices : {'app_choice': 'statistics', 'get_some_statistics': 'top queries', 'top_queries_number': '17'}
+2021-11-26 22:02:08,941 - running is set to True, running action loop...
+2021-11-26 22:02:08,942 - running menu's action function
+2021-11-26 22:02:14,934 - user interface choices : {'app_choice': 'quit', 'quit_confirm': True}
+2021-11-26 22:02:14,937 - program ends
+2021-11-26 22:04:40,803 - program starts
+2021-11-26 22:04:40,803 - debug info only
+2021-11-26 22:04:40,803 - running is set to True, running action loop...
+2021-11-26 22:04:40,803 - running menu's action function
+2021-11-26 22:04:42,185 - user interface choices : {'app_choice': 'search', 'search_type': ''}
+2021-11-26 22:05:06,621 - program starts
+2021-11-26 22:05:06,621 - debug info only
+2021-11-26 22:05:06,622 - running is set to True, running action loop...
+2021-11-26 22:05:06,622 - running menu's action function
+2021-11-26 22:05:07,888 - user interface choices : {'app_choice': 'search', 'search_type': ''}
+2021-11-26 22:05:07,906 - program ends
+2021-11-26 22:05:29,788 - program starts
+2021-11-26 22:05:29,788 - debug info only
+2021-11-26 22:05:29,788 - running is set to True, running action loop...
+2021-11-26 22:05:29,788 - running menu's action function
+2021-11-26 22:05:31,027 - user interface choices : {'app_choice': 'search', 'search_type': ''}
+2021-11-26 22:05:31,038 - running is set to True, running action loop...
+2021-11-26 22:05:31,038 - running menu's action function
+2021-11-26 22:05:33,016 - user interface choices : {'app_choice': 'quit', 'quit_confirm': True}
+2021-11-26 22:05:33,023 - program ends
+2021-11-26 22:13:44,864 - program starts
+2021-11-26 22:13:44,865 - debug info only
+2021-11-26 22:13:44,865 - running is set to True, running action loop...
+2021-11-26 22:13:44,865 - running menu's action function
+2021-11-26 22:13:48,591 - user interface choices : {'app_choice': 'statistics', 'get_some_statistics': 'top queries', 'top_queries_number': '8'}
+2021-11-26 22:13:50,843 - running is set to True, running action loop...
+2021-11-26 22:13:50,844 - running menu's action function
+2021-11-26 22:13:53,312 - user interface choices : {'app_choice': 'quit', 'quit_confirm': True}
+2021-11-26 22:13:53,315 - program ends
+2021-11-26 22:19:52,261 - program starts
+2021-11-26 22:19:52,262 - debug info only
+2021-11-26 22:19:52,262 - running is set to True, running action loop...
+2021-11-26 22:19:52,262 - running menu's action function
+2021-11-26 22:19:53,865 - user interface choices : {'app_choice': 'health check'}
+2021-11-26 22:19:54,716 - running is set to True, running action loop...
+2021-11-26 22:19:54,717 - running menu's action function
+2021-11-26 22:20:03,391 - user interface choices : {'app_choice': 'configure', 'choose_config': 'engines in use', 'choose_engines': ['Twitter', 'GoogleScholar', 'Giphy', 'CNRTL']}
+2021-11-26 22:20:04,815 - running is set to True, running action loop...
+2021-11-26 22:20:04,815 - running menu's action function
+2021-11-26 22:20:12,765 - user interface choices : {'app_choice': 'search', 'search_type': 'uchronie'}
+2021-11-26 22:20:19,282 - running is set to True, running action loop...
+2021-11-26 22:20:19,282 - running menu's action function
+2021-11-26 22:20:21,669 - user interface choices : {'app_choice': 'search', 'search_type': 'uchronie'}
+2021-11-26 22:20:22,927 - running is set to True, running action loop...
+2021-11-26 22:20:22,928 - running menu's action function
+2021-11-26 22:20:27,410 - user interface choices : {'app_choice': 'statistics', 'get_some_statistics': 'top queries', 'top_queries_number': '10'}
+2021-11-26 22:20:29,304 - running is set to True, running action loop...
+2021-11-26 22:20:29,304 - running menu's action function
+2021-11-26 22:39:38,351 - user interface choices : {'app_choice': 'configure', 'choose_config': 'engines in use', 'choose_engines': ['Twitter', 'ScanR', 'GoogleScholar', 'Giphy', 'CNRTL']}
+2021-11-26 22:39:38,861 - running is set to True, running action loop...
+2021-11-26 22:39:38,861 - running menu's action function
+2021-11-26 22:39:50,595 - user interface choices : {'app_choice': 'search', 'search_type': 'emhase'}
+2021-11-26 22:39:54,312 - running is set to True, running action loop...
+2021-11-26 22:39:54,312 - running menu's action function
+2021-11-26 22:40:43,132 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
+2021-11-26 22:43:10,474 - program starts
+2021-11-26 22:43:10,474 - debug info only
+2021-11-26 22:43:10,474 - running is set to True, running action loop...
+2021-11-26 22:43:10,474 - running menu's action function
+2021-11-26 22:43:14,046 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
+2021-11-26 22:43:43,640 - program starts
+2021-11-26 22:43:43,640 - debug info only
+2021-11-26 22:43:43,640 - running is set to True, running action loop...
+2021-11-26 22:43:43,640 - running menu's action function
+2021-11-26 22:43:46,521 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
+2021-11-26 22:46:17,833 - program starts
+2021-11-26 22:46:17,833 - debug info only
+2021-11-26 22:46:17,833 - running is set to True, running action loop...
+2021-11-26 22:46:17,833 - running menu's action function
+2021-11-26 22:46:21,112 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
+2021-11-26 22:46:37,128 - program starts
+2021-11-26 22:46:37,128 - debug info only
+2021-11-26 22:46:37,128 - running is set to True, running action loop...
+2021-11-26 22:46:37,128 - running menu's action function
+2021-11-26 22:46:40,044 - user interface choices : {'app_choice': 'search', 'search_type': 'embuscade'}
